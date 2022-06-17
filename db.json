@@ -1,0 +1,29 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nahuel",
+      "empresa": "Branca",
+      "email": "correo@correo.com",
+      "telefono": "341820312389",
+      "notas": "hola",
+      "id": 1
+    },
+    {
+      "nombre": "Nahuel",
+      "empresa": "Branca",
+      "email": "correo@correo.com",
+      "telefono": "419231623961723",
+      "notas": "fernet con coca",
+      "id": 2
+    },
+    {
+      "nombre": "AXEL",
+      "empresa": "PRITTY",
+      "email": "correo2@correo.com",
+      "telefono": "21312312312",
+      "notas": "pritiau",
+      "id": 3
+    }
+  
+  ]
+}
